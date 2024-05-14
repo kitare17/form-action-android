@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventHander</string>
+    <string-array name="option_calculate">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
