@@ -6,4 +6,18 @@
         <item>*</item>
         <item>/</item>
     </string-array>
+
+    <string-array name="programming_languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>JavaScript</item>
+        <item>TypeScript</item>
+        <item>Swift</item>
+        <item>Go</item>
+        <item>Rust</item>
+        <item>Ruby</item>
+    </string-array>
+
 </resources>
